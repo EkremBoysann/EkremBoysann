@@ -15,8 +15,6 @@ I am curious about new technologies and trends and constantly focus on experimen
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EkremBoysann&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EkremBoysann&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=EkremBoysann&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ---
 
