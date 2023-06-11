@@ -1,5 +1,8 @@
 # 💫 About Me:
-Merhaba! Benim adım Ekrem. Yazılım geliştirme ile ilgilenen bir üniversite öğrencisiyim. <br>Şuan kendi çabalarımla Python dilini öğreniyorum. Ayrıca Açık kaynak projelere katkıda bulunmaktan ve toplulukla birlikte çalışmaktan keyif alıyorum. <br>Yeni teknolojilere ve trendlere meraklıyım ve sürekli olarak kendimi geliştirmeye odaklanıyorum. Yakın zamanda Python ile ilgili projerler geliştirmek ve bunları sizlerle paylaşmak istiyorum <br>
+Hello! My name is Ekrem. I am a college student interested in software development.
+I am currently learning Python by my own efforts. I also enjoy contributing to open source projects and working with the community.
+I am curious about new technologies and trends and constantly focus on experimenting myself. I would like to develop Python-related projects and share them with you in the near future.
+
 
 
 ## 🌐 Socials:
